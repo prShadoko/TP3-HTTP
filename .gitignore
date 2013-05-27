@@ -4,3 +4,15 @@
 *.jar
 *.war
 *.ear
+/HttpServeur/nbproject/private/
+/HttpClient/nbproject/private/
+/HttpLib/nbproject/private/
+/HttpServeur/build/
+/HttpClient/build/
+/HttpLib/build/
+/HttpServeur/build.xml
+/HttpClient/build.xml
+/HttpLib/build.xml
+/HttpServeur/manifest.mf
+/HttpClient/manifest.mf
+/HttpLib/manifest.mf
